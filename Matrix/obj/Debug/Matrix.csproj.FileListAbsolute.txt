@@ -8,3 +8,4 @@ C:\Git\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
 C:\Git\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
 C:\Git\Matrix\Matrix\obj\Debug\Matrix.exe
 C:\Git\Matrix\Matrix\obj\Debug\Matrix.pdb
+C:\Git\Matrix\Matrix\obj\Debug\Matrix.Form2.resources
